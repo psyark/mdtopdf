@@ -1,7 +1,7 @@
 package document
 
 import (
-	"github.com/raykov/mdtopdf/color"
+	"github.com/psyark/mdtopdf/color"
 )
 
 // WriteTable draw a table in PDF

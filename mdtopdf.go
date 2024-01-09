@@ -3,11 +3,9 @@ package mdtopdf
 import (
 	"io"
 
-	"github.com/raykov/mdtopdf/document"
-	"github.com/raykov/mdtopdf/renderer"
-
-	"github.com/raykov/gofpdf"
-
+	"github.com/psyark/gofpdf"
+	"github.com/psyark/mdtopdf/document"
+	"github.com/psyark/mdtopdf/renderer"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/extension"
 )

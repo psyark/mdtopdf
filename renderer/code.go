@@ -1,8 +1,7 @@
 package renderer
 
 import (
-	"github.com/raykov/mdtopdf/color"
-
+	"github.com/psyark/mdtopdf/color"
 	"github.com/yuin/goldmark/ast"
 )
 

@@ -5,8 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/raykov/gofpdf"
-
+	"github.com/psyark/gofpdf"
 	"github.com/yuin/goldmark/ast"
 )
 

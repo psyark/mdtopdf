@@ -4,9 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/raykov/gofpdf"
-
-	"github.com/raykov/mdtopdf"
+	"github.com/psyark/gofpdf"
+	"github.com/psyark/mdtopdf"
 )
 
 func main() {

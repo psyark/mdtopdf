@@ -1,9 +1,8 @@
 package document
 
 import (
-	"github.com/raykov/mdtopdf/color"
-
-	"github.com/raykov/gofpdf"
+	"github.com/psyark/gofpdf"
+	"github.com/psyark/mdtopdf/color"
 )
 
 // NewDocument creates a new document

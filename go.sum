@@ -12,10 +12,10 @@ github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/psyark/gofpdf v0.0.0-20240109210354-cc6890d9d8a1 h1:Pfr+XviQwJyklPSnB7Y78KH31+VUGTIeQa2kyjongzA=
+github.com/psyark/gofpdf v0.0.0-20240109210354-cc6890d9d8a1/go.mod h1:exak1URChGYKePUWIhcKxSx/5q1uLInRYwSjwKgw9To=
 github.com/raykov/css-font-parser v0.3.0 h1:UvxiBwHPgUqtwiisddh1usFn/py9DnDUplXzseyYh2w=
 github.com/raykov/css-font-parser v0.3.0/go.mod h1:/JI9PjSg2BxuFEs2q1ZyT1BlI6fWFF7HS3daDsi5V/E=
-github.com/raykov/gofpdf v1.16.7 h1:VYX6jIjXP4eHA5/7VkJaIHRs71yR89yr81nXZhP+NSg=
-github.com/raykov/gofpdf v1.16.7/go.mod h1:Rqarh670hM6++UtJfLC1WmHzCz4zwK8rkJtEjLvBObM=
 github.com/raykov/oksvg v0.0.5 h1:xo4tPmME7B4RKFypxQfmC69XENsLna5ZQfzazBQiQYk=
 github.com/raykov/oksvg v0.0.5/go.mod h1:IIUa3RY3bfHH1D3bEQNCdeOtNrm40wnfqhiBM8Xx5dE=
 github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58/go.mod h1:6lfFZQK844Gfx8o5WFuvpxWRwnSoipWe/p622j1v06w=
