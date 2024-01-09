@@ -3,7 +3,7 @@ module github.com/psyark/mdtopdf
 go 1.18
 
 require (
-	github.com/psyark/gofpdf v0.0.0-20240109210354-cc6890d9d8a1
+	github.com/psyark/gofpdf v0.0.0-20240109222502-79f7aaf770c4
 	github.com/raykov/oksvg v0.0.5
 	github.com/srwiley/rasterx v0.0.0-20220128185129-2efea2b9ea41
 	github.com/yuin/goldmark v1.5.3

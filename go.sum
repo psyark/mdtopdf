@@ -12,8 +12,8 @@ github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/psyark/gofpdf v0.0.0-20240109210354-cc6890d9d8a1 h1:Pfr+XviQwJyklPSnB7Y78KH31+VUGTIeQa2kyjongzA=
-github.com/psyark/gofpdf v0.0.0-20240109210354-cc6890d9d8a1/go.mod h1:exak1URChGYKePUWIhcKxSx/5q1uLInRYwSjwKgw9To=
+github.com/psyark/gofpdf v0.0.0-20240109222502-79f7aaf770c4 h1:z/230BtPz2548Ax2ZybmxomMzUGleDM3kum65pQ+VFM=
+github.com/psyark/gofpdf v0.0.0-20240109222502-79f7aaf770c4/go.mod h1:exak1URChGYKePUWIhcKxSx/5q1uLInRYwSjwKgw9To=
 github.com/raykov/css-font-parser v0.3.0 h1:UvxiBwHPgUqtwiisddh1usFn/py9DnDUplXzseyYh2w=
 github.com/raykov/css-font-parser v0.3.0/go.mod h1:/JI9PjSg2BxuFEs2q1ZyT1BlI6fWFF7HS3daDsi5V/E=
 github.com/raykov/oksvg v0.0.5 h1:xo4tPmME7B4RKFypxQfmC69XENsLna5ZQfzazBQiQYk=
